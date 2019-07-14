@@ -8,25 +8,54 @@ import java.util.List;
 public class SortingTechniques{
 
 	public static void main(String[] args) {
-		
+
 		List<Friends> friendsList = new ArrayList<Friends>();
 		friendsList.add(new Friends("Gullu", 90));
 		friendsList.add(new Friends("Bulluuu", 99));
 		friendsList.add(new Friends("Mulluu", 47));
-		
-		Collections.sort(friendsList);
-		
+
+		//Sorting on using Comparable interface
+		System.out.println("Sorting on using Comparable interface");
+		Collections.sort(friendsList);		
 		for(Friends f:friendsList) {
 			System.out.println(f.name+" ");
-		}		
+		}
+
+		//Sorting on using Comparator interface
+		System.out.println("Sorting on using Comparator interface with Anonymous Inner Class");
+		Collections.sort(friendsList, new Comparator<Friends>() {
+			@Override
+			public int compare(Friends o1, Friends o2) {
+				return o1.weight-o2.weight;
+			}
+		});
+		for(Friends f:friendsList) {
+			System.out.println(f.name+" ");
+		}
+
+		//Sorting on using Comparator interface
+		System.out.println("Sorting on using Comparator interface with Lambda Expression");
+		Collections.sort(friendsList, (o1,o2)->o1.weight-o2.weight);
+		for(Friends f:friendsList) {
+			System.out.println(f.name+" ");
+		}
+
+		//Sorting on using Comparator interface
+		System.out.println("Sorting on using Comparator interface with Method Reference");
+		Collections.sort(friendsList, new Friends()::compare);
+		for(Friends f:friendsList) {
+			System.out.println(f.name+" ");
+		}
 	}
 }
 
-//Here we are implementing Comparable iterface
-class Friends implements Comparable<Friends>{
+//Here we are implementing Comparable interface
+class Friends implements Comparable<Friends>, Comparator<Friends>{
 	String name;
 	//Date dob;
 	int weight;
+	
+	Friends(){}
 	
 	Friends(String name, int weight){
 		this.name = name;
@@ -38,25 +67,9 @@ class Friends implements Comparable<Friends>{
 	public int compareTo(Friends o) {
 		return this.name.length()-o.name.length();		
 	}
-}
-
-//Sorting using Comparator interface
-//Created class to sort by name
-class sortByName implements Comparator<Friends>{
-
-	@Override
-	public int compare(Friends o1, Friends o2) {
-		return o1.name.length()-o2.name.length();
-	}
-	
-}
-
-//Created class to sort by weight
-class sortByWeight implements Comparator<Friends>{
 
 	@Override
 	public int compare(Friends o1, Friends o2) {
 		return o1.weight-o2.weight;
 	}
-	
 }
