@@ -46,23 +46,17 @@ HackerRank is the best place to learn and practice coding!.
 import java.util.Scanner;
 
 public class Day1 {
-
 	public static void main(String[] args) {
 		int i = 4;
         double d = 4.0;
-        String s = "HackerRank ";
-		
-        Scanner scanner = new Scanner(System.in);
-        
-        int a = Integer.parseInt(scanner.nextLine());
-        double b = Double.parseDouble(scanner.nextLine());
-        String c = scanner.nextLine();
-        
+        String s = "HackerRank ";		
+        Scanner scan = new Scanner(System.in);        
+        int a = Integer.parseInt(scan.nextLine());
+        double b = Double.parseDouble(scan.nextLine());
+        String c = scan.nextLine();        
         System.out.println(i+a);
         System.out.println(d+b);
-        System.out.println(s+c);
-        
-        scanner.close();
+        System.out.println(s+c);        
+        scan.close();
 	}
-
 }

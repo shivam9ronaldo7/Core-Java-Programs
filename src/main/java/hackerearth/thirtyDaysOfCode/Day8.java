@@ -79,5 +79,4 @@ public class Day8 {
 			searchInPhoneBookEntry(scanner.nextLine());
 		}
 	}
-
 }

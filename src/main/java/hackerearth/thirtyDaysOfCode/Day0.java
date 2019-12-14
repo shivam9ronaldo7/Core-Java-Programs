@@ -24,16 +24,11 @@ Welcome to 30 Days of Code!
 
 */
 public class Day0 {
-
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		String inputString = scanner.nextLine();
-		if(inputString.equals("Welcome to 30 Days of Code!")) {
-			System.out.println("Hello, World.");
-			System.out.println("Welcome to 30 Days of Code!");
-		}else 
-			System.out.println("Wrong Input");
 		scanner.close();
+		System.out.println("Hello, World.");
+		System.out.println(inputString);
 	}
-
 }

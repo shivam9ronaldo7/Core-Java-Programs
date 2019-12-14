@@ -75,7 +75,7 @@ public class Day6 {
 				secondString = secondString + letterCharacter[i];
 		}
 		System.out.print(firstString);
-		System.out.print("  ");
+		System.out.print(" ");
 		System.out.print(secondString);
 		System.out.println("");
 	}
