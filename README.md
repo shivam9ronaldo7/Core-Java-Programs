@@ -8,12 +8,12 @@
 Thanks to [RodneyShag](https://github.com/RodneyShag/HackerRank_solutions) got help from his repo. I did it just for my learning purpose.
 
 * [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
-* Some basic [coding](https://github.com/shivam9ronaldo7/core-java-programs/tree/master/src/main/java/basicPrograms) questions
+* [Basic Coding](https://github.com/shivam9ronaldo7/core-java-programs/tree/master/src/main/java/basicPrograms) questions
 
 # 30 Days of Code
 
-| Day |                                                Challenge                                                | Points |     Solution     |
-|:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:----------------:|
+| Day |                                                Challenge                                                | Points |                                                       Solution                                                                     |
+|:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------:|
 |  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                    |   30   | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/hackerearth/thirtyDaysOfCode/Day0.java) |
 |  1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types)                                       |   30   | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/hackerearth/thirtyDaysOfCode/Day1.java) |
 |  2  | [Operators](https://www.hackerrank.com/challenges/30-operators)                                         |   30   | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/hackerearth/thirtyDaysOfCode/Day2.java) |
@@ -24,51 +24,51 @@ Thanks to [RodneyShag](https://github.com/RodneyShag/HackerRank_solutions) got h
 |  7  | [Arrays](https://www.hackerrank.com/challenges/30-arrays)                                               |   30   | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/hackerearth/thirtyDaysOfCode/Day7.java) |
 |  8  | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps)                 |   30   | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/hackerearth/thirtyDaysOfCode/Day8.java) |
 |  9  | [Recursion](https://www.hackerrank.com/challenges/30-recursion)                                         |   30   | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/hackerearth/thirtyDaysOfCode/Day9.java) |
-|  10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers)                               |   30   | [Didn't code yet]|
-|  11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays)                                         |   30   | [Didn't code yet]|
-|  12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance)                                     |   30   | [Didn't code yet]|
-|  13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes)                           |   30   | [Didn't code yet]|
-|  14 | [Scope](https://www.hackerrank.com/challenges/30-scope)                                                 |   30   | [Didn't code yet]|
-|  15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list)                                     |   30   | [Didn't code yet]|
-|  16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) |   30   | [Didn't code yet]|
-|  17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)                             |   30   | [Didn't code yet]|
-|  18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)                             |   30   | [Didn't code yet]|
-|  19 | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)                                       |   30   | [Didn't code yet]|
-|  20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting)                                             |   30   | [Didn't code yet]|
-|  21 | [Generics](https://www.hackerrank.com/challenges/30-generics)                                           |   30   | [Didn't code yet]|
-|  22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees)                     |   30   | [Didn't code yet]|
-|  23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees)                      |   30   | [Didn't code yet]|
-|  24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion)                      |   30   | [Didn't code yet]|
-|  25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)     |   30   | [Didn't code yet]|
-|  26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)                                   |   30   | [Didn't code yet]|
-|  27 | [Testing](https://www.hackerrank.com/challenges/30-testing)                                             |   30   | [Didn't code yet]|
+|  10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers)                               |   30   | [Didn't code yet]                                                                                                                  |
+|  11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays)                                         |   30   | [Didn't code yet]                                                                                                                  |
+|  12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance)                                     |   30   | [Didn't code yet]                                                                                                                  |
+|  13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes)                           |   30   | [Didn't code yet]                                                                                                                  |
+|  14 | [Scope](https://www.hackerrank.com/challenges/30-scope)                                                 |   30   | [Didn't code yet]                                                                                                                  |
+|  15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list)                                     |   30   | [Didn't code yet]                                                                                                                  |
+|  16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) |   30   | [Didn't code yet]                                                                                                                  |
+|  17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)                             |   30   | [Didn't code yet]                                                                                                                  |
+|  18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)                             |   30   | [Didn't code yet]                                                                                                                  |
+|  19 | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)                                       |   30   | [Didn't code yet]                                                                                                                  |
+|  20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting)                                             |   30   | [Didn't code yet]                                                                                                                  |
+|  21 | [Generics](https://www.hackerrank.com/challenges/30-generics)                                           |   30   | [Didn't code yet]                                                                                                                  |
+|  22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees)                     |   30   | [Didn't code yet]                                                                                                                  |
+|  23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees)                      |   30   | [Didn't code yet]                                                                                                                  |
+|  24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion)                      |   30   | [Didn't code yet]                                                                                                                  |
+|  25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)     |   30   | [Didn't code yet]                                                                                                                  |
+|  26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)                                   |   30   | [Didn't code yet]                                                                                                                  |
+|  27 | [Testing](https://www.hackerrank.com/challenges/30-testing)                                             |   30   | [Didn't code yet]                                                                                                                  |
 
 # Basic Coding
-| S.No |             Name             |    Solution     |
-|:----:|:----------------------------:|----------------:|
-|  1  | [ArmstrongNumber]             |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/ArmstrongNumber.java)|
-|  1  | [ArrayMulExceptN]             |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/ArrayMulExceptN.java)|
-|  1  | [BrokenLink]                  |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/BrokenLink.java)|
-|  1  | [BTMax]                       |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/BTMax.java)|
-|  1  | [CharRepetition]              |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/CharRepetition.java)|
-|  1  | [CreateFileAndFolder]         |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/CreateFileAndFolder.java)|
-|  1  | [CustomAnnotations]           |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/CustomAnnotations.java)|
-|  1  | [DateComparision]             |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/DateComparision.java)|
-|  1  | [FizzBuzz]                    |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/FizzBuzz.java)|
-|  1  | [Generics]                    |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Generics.java)|
-|  1  | [MagicNumber]                 |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/MagicNumber.java)|
-|  1  | [MethodRefrences]             |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/MethodRefrences.java)|
-|  1  | [PalindromeNumber]            |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/PalindromeNumber.java)|
-|  1  | [Patterns]                    |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Patterns.java)|
-|  1  | [RepeatElements]              |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/RepeatElements.java)|
-|  1  | [SecondMaxInArray]            |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SecondMaxInArray.java)|
-|  1  | [SingletonClass]              |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SingletonClass.java)|
-|  1  | [SortArray]                   |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SortArray.java)|
-|  1  | [SortingTechniques]           |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SortingTechniques.java)|
-|  1  | [SortThreeSetOfArray]         |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SortThreeSetOfArray.java)|
-|  1  | [StrRevFLCap]                 |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/StrRevFLCap.java)|
-|  1  | [Test1]                       |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Test1.java)|
-|  1  | [Test2]                       |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Test2.java)|
-|  1  | [Test3]                       |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Test3.java)|
-|  1  | [TwoDecimalPlaces]            |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/TwoDecimalPlaces.java)|
-|  1  | [UniqueCharacters]            |[Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/UniqueCharacters.java)|
+| S.No |             Name             |                                                           Solution                                                                     |
+|:----:|:----------------------------:|---------------------------------------------------------------------------------------------------------------------------------------:|
+|  1  | [ArmstrongNumber]             | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/ArmstrongNumber.java)         |
+|  1  | [ArrayMulExceptN]             | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/ArrayMulExceptN.java)         |
+|  1  | [BrokenLink]                  | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/BrokenLink.java)              |
+|  1  | [BTMax]                       | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/BTMax.java)                   |
+|  1  | [CharRepetition]              | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/CharRepetition.java)          |
+|  1  | [CreateFileAndFolder]         | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/CreateFileAndFolder.java)     |
+|  1  | [CustomAnnotations]           | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/CustomAnnotations.java)       |
+|  1  | [DateComparision]             | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/DateComparision.java)         |
+|  1  | [FizzBuzz]                    | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/FizzBuzz.java)                |
+|  1  | [Generics]                    | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Generics.java)                |
+|  1  | [MagicNumber]                 | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/MagicNumber.java)             |
+|  1  | [MethodRefrences]             | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/MethodRefrences.java)         |
+|  1  | [PalindromeNumber]            | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/PalindromeNumber.java)        |
+|  1  | [Patterns]                    | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Patterns.java)                |
+|  1  | [RepeatElements]              | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/RepeatElements.java)          |
+|  1  | [SecondMaxInArray]            | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SecondMaxInArray.java)        |
+|  1  | [SingletonClass]              | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SingletonClass.java)          |
+|  1  | [SortArray]                   | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SortArray.java)               |
+|  1  | [SortingTechniques]           | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SortingTechniques.java)       |
+|  1  | [SortThreeSetOfArray]         | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SortThreeSetOfArray.java)     |
+|  1  | [StrRevFLCap]                 | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/StrRevFLCap.java)             |
+|  1  | [Test1]                       | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Test1.java)                   |
+|  1  | [Test2]                       | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Test2.java)                   |
+|  1  | [Test3]                       | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Test3.java)                   |
+|  1  | [TwoDecimalPlaces]            | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/TwoDecimalPlaces.java)        |
+|  1  | [UniqueCharacters]            | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/UniqueCharacters.java)        |
