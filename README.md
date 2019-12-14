@@ -7,6 +7,7 @@
 
 Thanks to [RodneyShag](https://github.com/RodneyShag/HackerRank_solutions) got help from his repo. I did it just for my learning purpose.
 
+* Some basic [coding] questions(https://github.com/shivam9ronaldo7/core-java-programs/tree/master/src/main/java/basicPrograms)
 * [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
 # 30 Days of Code
