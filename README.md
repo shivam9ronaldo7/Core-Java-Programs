@@ -8,7 +8,7 @@
 Thanks to [RodneyShag](https://github.com/RodneyShag/HackerRank_solutions) got help from his repo. I did it just for my learning purpose.
 
 * [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
-* [Basic Coding](https://github.com/shivam9ronaldo7/core-java-programs/tree/master/src/main/java/basicPrograms) questions
+* Some basic [coding](https://github.com/shivam9ronaldo7/core-java-programs/tree/master/src/main/java/basicPrograms) questions
 
 # 30 Days of Code
 
@@ -44,31 +44,31 @@ Thanks to [RodneyShag](https://github.com/RodneyShag/HackerRank_solutions) got h
 |  27 | [Testing](https://www.hackerrank.com/challenges/30-testing)                                             |   30   | [Didn't code yet]                                                                                                                  |
 
 # Basic Coding
-| S.No |             Name             |                                                           Solution                                                                     |
-|:----:|:----------------------------:|---------------------------------------------------------------------------------------------------------------------------------------:|
-|  1  | [ArmstrongNumber]             | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/ArmstrongNumber.java)         |
-|  2  | [ArrayMulExceptN]             | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/ArrayMulExceptN.java)         |
-|  3  | [BrokenLink]                  | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/BrokenLink.java)              |
-|  4  | [BTMax]                       | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/BTMax.java)                   |
-|  5  | [CharRepetition]              | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/CharRepetition.java)          |
-|  6  | [CreateFileAndFolder]         | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/CreateFileAndFolder.java)     |
-|  7  | [CustomAnnotations]           | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/CustomAnnotations.java)       |
-|  8  | [DateComparision]             | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/DateComparision.java)         |
-|  9  | [FizzBuzz]                    | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/FizzBuzz.java)                |
-|  10  | [Generics]                    | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Generics.java)                |
-|  11  | [MagicNumber]                 | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/MagicNumber.java)             |
-|  12  | [MethodRefrences]             | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/MethodRefrences.java)         |
-|  13  | [PalindromeNumber]            | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/PalindromeNumber.java)        |
-|  14  | [Patterns]                    | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Patterns.java)                |
-|  15  | [RepeatElements]              | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/RepeatElements.java)          |
-|  16  | [SecondMaxInArray]            | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SecondMaxInArray.java)        |
-|  17  | [SingletonClass]              | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SingletonClass.java)          |
-|  18  | [SortArray]                   | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SortArray.java)               |
-|  19  | [SortingTechniques]           | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SortingTechniques.java)       |
-|  20  | [SortThreeSetOfArray]         | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SortThreeSetOfArray.java)     |
-|  21  | [StrRevFLCap]                 | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/StrRevFLCap.java)             |
-|  22  | [Test1]                       | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Test1.java)                   |
-|  23  | [Test2]                       | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Test2.java)                   |
-|  24  | [Test3]                       | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Test3.java)                   |
-|  25  | [TwoDecimalPlaces]            | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/TwoDecimalPlaces.java)        |
-|  26  | [UniqueCharacters]            | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/UniqueCharacters.java)        |
+| S.No |              Name             |                                                            Solution                                                                     |
+|:----:|:-----------------------------:|----------------------------------------------------------------------------------------------------------------------------------------:|
+|  1   | [ArmstrongNumber]             | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/ArmstrongNumber.java)          |
+|  2   | [ArrayMulExceptN]             | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/ArrayMulExceptN.java)          |
+|  3   | [BrokenLink]                  | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/BrokenLink.java)               |
+|  4   | [BTMax]                       | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/BTMax.java)                    |
+|  5   | [CharRepetition]              | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/CharRepetition.java)           |
+|  6   | [CreateFileAndFolder]         | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/CreateFileAndFolder.java)      |
+|  7   | [CustomAnnotations]           | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/CustomAnnotations.java)        |
+|  8   | [DateComparision]             | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/DateComparision.java)          |
+|  9   | [FizzBuzz]                    | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/FizzBuzz.java)                 |
+|  10  | [Generics]                    | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Generics.java)                 |
+|  11  | [MagicNumber]                 | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/MagicNumber.java)              |
+|  12  | [MethodRefrences]             | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/MethodRefrences.java)          |
+|  13  | [PalindromeNumber]            | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/PalindromeNumber.java)         |
+|  14  | [Patterns]                    | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Patterns.java)                 |
+|  15  | [RepeatElements]              | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/RepeatElements.java)           |
+|  16  | [SecondMaxInArray]            | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SecondMaxInArray.java)         |
+|  17  | [SingletonClass]              | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SingletonClass.java)           |
+|  18  | [SortArray]                   | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SortArray.java)                |
+|  19  | [SortingTechniques]           | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SortingTechniques.java)        |
+|  20  | [SortThreeSetOfArray]         | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/SortThreeSetOfArray.java)      |
+|  21  | [StrRevFLCap]                 | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/StrRevFLCap.java)              |
+|  22  | [Test1]                       | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Test1.java)                    |
+|  23  | [Test2]                       | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Test2.java)                    |
+|  24  | [Test3]                       | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/Test3.java)                    |
+|  25  | [TwoDecimalPlaces]            | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/TwoDecimalPlaces.java)         |
+|  26  | [UniqueCharacters]            | [Solution](https://github.com/shivam9ronaldo7/core-java-programs/blob/master/src/main/java/basicPrograms/UniqueCharacters.java)         |
