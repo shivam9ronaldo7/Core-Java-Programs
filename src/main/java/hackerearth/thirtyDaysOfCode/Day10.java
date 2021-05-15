@@ -39,16 +39,29 @@ Sample Case 2:
 The binary representation of 13 is 1101, so the maximum number of consecutive 1's is 2.
 */
 
-public class Day10 {
-	
-	private static final Scanner scanner = new Scanner(System.in);
-	
+public class Day10 {	
+	private static final Scanner scanner = new Scanner(System.in);	
 	public static void main(String[] args) {
-		//int n = scanner.nextInt();
+		int n = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
         scanner.close();
-        
-        
-	}
-
+        int r;
+        long b = 0;
+        for(long i=1;n!=0;i=i*10) {
+        	r = n%2;
+        	n = n/2;
+        	b = b+(r*i);
+        }
+        String[] numStrArr = Long.toString(b).split("");
+        int counter = 0, max = 0;
+        for(String numStr: numStrArr) {
+        	if(numStr.equals("1"))
+        		++counter;
+        	else
+        		counter = 0;        	
+        	if(counter>max)
+        		max = counter;
+        }
+        System.out.println(max);
+	}	
 }
